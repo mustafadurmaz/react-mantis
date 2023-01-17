@@ -31,7 +31,7 @@ const MainRoutes = {
             element: <Color />
         },
         {
-            path: 'sample-page',
+            path: 'testpage',
             element: <SamplePage />
         }
     ]

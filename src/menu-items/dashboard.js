@@ -18,15 +18,15 @@ const dashboard = {
             id: 'dashboard',
             title: 'Dashboard',
             type: 'item',
-            url: '/dashboard/default',
+            url: '/',
             icon: icons.DashboardOutlined,
             breadcrumbs: false
         },
         {
-            id: 'formbuilder',
-            title: 'Form Builder',
+            id: 'testpage',
+            title: 'Test Page',
             type: 'item',
-            url: '/formbuilder',
+            url: '/testpage',
             icon: icons.ChromeOutlined,
             breadcrumbs: false
         }
